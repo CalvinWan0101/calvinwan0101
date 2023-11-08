@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 October 2023 - To: 05 November 2023
+From: 30 October 2023 - To: 06 November 2023
 
-Total Time: 22 hrs 21 mins
+Total Time: 15 hrs 16 mins
 
-C                8 hrs 54 mins   >>>>>>>>>>---------------   39.83 %
-C++              7 hrs 23 mins   >>>>>>>>-----------------   33.07 %
-Java             2 hrs 20 mins   >>>----------------------   10.45 %
-Makefile         1 hr 16 mins    >------------------------   05.72 %
-Objective-C      59 mins         >------------------------   04.44 %
+C++              5 hrs           >>>>>>>>-----------------   32.73 %
+C                4 hrs 36 mins   >>>>>>>>-----------------   30.11 %
+Java             2 hrs 43 mins   >>>>---------------------   17.81 %
+Makefile         1 hr 16 mins    >>-----------------------   08.30 %
+Markdown         28 mins         >------------------------   03.11 %
 ```
 
 <!--END_SECTION:waka-->
