@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 November 2023 - To: 12 November 2023
+From: 06 November 2023 - To: 13 November 2023
 
-Total Time: 22 hrs 55 mins
+Total Time: 31 hrs 12 mins
 
-C#               20 hrs 46 mins  >>>>>>>>>>>>>>>>>>>>-----   80.87 %
-Other            2 hrs 45 mins   >>>----------------------   10.71 %
+C#               28 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>-----   80.95 %
+Other            3 hrs 29 mins   >>>----------------------   10.08 %
 ```
 
 <!--END_SECTION:waka-->
