@@ -3,13 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 November 2023 - To: 04 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-Total Time: 41 hrs 26 mins
+Total Time: 29 hrs 47 mins
 
-C#           20 hrs 36 mins  >>>>>>>>>>>--------------   45.53 %
-C++          16 hrs 39 mins  >>>>>>>>>----------------   36.79 %
-Other        3 hrs 50 mins   >>-----------------------   08.48 %
+C++          16 hrs 36 mins  >>>>>>>>>>>>>>-----------   54.32 %
+C#           10 hrs 16 mins  >>>>>>>>-----------------   33.58 %
+Java         1 hr 59 mins    >>-----------------------   06.51 %
+Other        47 mins         >------------------------   02.61 %
 ```
 
 <!--END_SECTION:waka-->
