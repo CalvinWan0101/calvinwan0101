@@ -3,14 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 December 2023 - To: 27 December 2023
+From: 21 December 2023 - To: 28 December 2023
 
-Total Time: 47 hrs 36 mins
+Total Time: 48 hrs 53 mins
 
-Java              30 hrs 42 mins  >>>>>>>>>>>>>>>----------   61.07 %
-SQL               8 hrs 32 mins   >>>>---------------------   17.00 %
-C#                3 hrs 53 mins   >>-----------------------   07.73 %
-Other             2 hrs 40 mins   >------------------------   05.33 %
+Java              37 hrs 57 mins  >>>>>>>>>>>>>>>>>>>------   77.64 %
+SQL               8 hrs 49 mins   >>>>>--------------------   18.06 %
+TypeScript        29 mins         -------------------------   01.00 %
+JSON              22 mins         -------------------------   00.77 %
+Properties        21 mins         -------------------------   00.74 %
 ```
 
 <!--END_SECTION:waka-->
