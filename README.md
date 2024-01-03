@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-Total Time: 67 hrs 28 mins
+Total Time: 64 hrs 17 mins
 
-Java              51 hrs 2 mins   >>>>>>>>>>>>>>>>>>>------   75.63 %
-SQL               9 hrs 44 mins   >>>>---------------------   14.44 %
-JSON              4 hrs 14 mins   >>-----------------------   06.29 %
-TypeScript        1 hr 43 mins    >------------------------   02.57 %
-Java Properties   18 mins         -------------------------   00.45 %
+Java              50 hrs 6 mins   >>>>>>>>>>>>>>>>>>>------   77.95 %
+SQL               7 hrs 56 mins   >>>----------------------   12.35 %
+JSON              4 hrs 13 mins   >>-----------------------   06.56 %
+TypeScript        1 hr 35 mins    >------------------------   02.47 %
+Java Properties   18 mins         -------------------------   00.47 %
 ```
 
 <!--END_SECTION:waka-->
