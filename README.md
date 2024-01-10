@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-Total Time: 44 hrs 26 mins
+Total Time: 54 hrs 2 mins
 
-Java         27 hrs 5 mins   >>>>>>>>>>>>>>-----------   54.03 %
-SQL          7 hrs 38 mins   >>>>---------------------   15.26 %
-C#           7 hrs 24 mins   >>>>---------------------   14.79 %
-Other        5 hrs 40 mins   >>>----------------------   11.34 %
+Java         33 hrs 20 mins  >>>>>>>>>>>>>>-----------   55.82 %
+SQL          11 hrs 2 mins   >>>>>--------------------   18.47 %
+C#           7 hrs 24 mins   >>>----------------------   12.41 %
+Other        5 hrs 40 mins   >>-----------------------   09.51 %
 ```
 
 <!--END_SECTION:waka-->
