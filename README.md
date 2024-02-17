@@ -3,15 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 February 2024 - To: 15 February 2024
+From: 09 February 2024 - To: 16 February 2024
 
-Total Time: 1 hr 23 mins
+Total Time: 6 hrs 13 mins
 
-Java              1 hr 20 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   95.68 %
-SQL               1 min           -------------------------   01.81 %
-Java Properties   1 min           -------------------------   01.43 %
-Properties        0 secs          -------------------------   00.67 %
-XML               0 secs          -------------------------   00.38 %
+Java         6 hrs 6 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   97.97 %
+XML          7 mins          >------------------------   02.02 %
+Properties   0 secs          -------------------------   00.00 %
+SQL          0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
