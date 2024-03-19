@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 March 2024 - To: 17 March 2024
+From: 11 March 2024 - To: 18 March 2024
 
-Total Time: 26 hrs 35 mins
+Total Time: 24 hrs 35 mins
 
-C#               9 hrs 3 mins    >>>>>>>>>----------------   34.06 %
-C++              7 hrs 3 mins    >>>>>>>------------------   26.56 %
-Python           5 hrs 33 mins   >>>>>--------------------   20.93 %
-Java             1 hr 57 mins    >>-----------------------   07.38 %
-C                1 hr 50 mins    >>-----------------------   06.94 %
+C#               7 hrs 17 mins   >>>>>>>------------------   29.61 %
+C++              7 hrs 4 mins    >>>>>>>------------------   28.73 %
+Python           5 hrs 33 mins   >>>>>>-------------------   22.63 %
+C                2 hrs 4 mins    >>-----------------------   08.46 %
+Objective-C      48 mins         >------------------------   03.29 %
 ```
 
 <!--END_SECTION:waka-->
