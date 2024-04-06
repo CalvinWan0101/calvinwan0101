@@ -1,5 +1,4 @@
 # Hi, This is Xiang-Rui, Wan
-You can call me `Calvin` or `Xiang-Rui`.
 
 ### About me
 
