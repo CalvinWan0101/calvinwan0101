@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a junior at Taipei Tech, majoring in Computer Science. I am interested in backend development, software design, and software testing. So far, I've learned about test-driven development, refactoring, and several design patterns. Currently, I am learning about Clean Code and Clean Architecture. I enjoy applying what I've learned to my development projects.
+I am a senior student at Taipei Tech, majoring in Computer Science. I am interested in backend development, software design, and software testing, and I am currently interning at [Galaxy Software Services (GSS)](https://www.gss.com.tw/).
 
 ### Learn more about me
 
