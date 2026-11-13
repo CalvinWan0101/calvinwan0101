@@ -1,0 +1,5 @@
+- Software Engineer @ [Galaxy Software Services](https://www.gss.com.tw)
+- B.S. in Computer Science and Information Engineering, [National Taipei University of Technology](https://www.ntut.edu.tw)
+- Personal Website: [Calvin Forge](https://calvinforge.com)
+- Linktree: [Calvin Wan](https://linktr.ee/calvinwan0101)
+- [![wakatime](https://wakatime.com/badge/user/f9a8d1a4-390c-4474-b8b6-e4d351471120.svg?style=social)](https://wakatime.com/@f9a8d1a4-390c-4474-b8b6-e4d351471120)
